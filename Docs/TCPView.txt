@@ -1,0 +1,85 @@
+[System Process]	0	TCP	desktop-n3un5d7.localdomain	49678	13.89.217.116	https	TIME_WAIT										
+[System Process]	0	TCP	DESKTOP-N3UN5D7	50159	localhost	wsd	TIME_WAIT										
+[System Process]	0	TCP	DESKTOP-N3UN5D7	50162	localhost	wsd	TIME_WAIT										
+[System Process]	0	TCP	desktop-n3un5d7.localdomain	50174	bingforbusiness.com	https	TIME_WAIT										
+[System Process]	0	TCPV6	[0:0:0:0:0:0:0:1]	50156	[0:0:0:0:0:0:0:1]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	[0:0:0:0:0:0:0:1]	50157	[0:0:0:0:0:0:0:1]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	[0:0:0:0:0:0:0:1]	50158	[0:0:0:0:0:0:0:1]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	[0:0:0:0:0:0:0:1]	50160	[0:0:0:0:0:0:0:1]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	[0:0:0:0:0:0:0:1]	50161	[0:0:0:0:0:0:0:1]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	[0:0:0:0:0:0:0:1]	50163	[0:0:0:0:0:0:0:1]	wsd	TIME_WAIT										
+[System Process]	0	TCPV6	[0:0:0:0:0:0:0:1]	50164	[0:0:0:0:0:0:0:1]	wsd	TIME_WAIT										
+[System Process]	0	TCP	desktop-n3un5d7.localdomain	50189	vi-08-3cz0j12.ksd.edu	ms-do	TIME_WAIT										
+backgroundTaskHost.exe	3388	TCP	desktop-n3un5d7.localdomain	50191	204.79.197.220	https	ESTABLISHED	3	2,843	6	7,791						
+dasHost.exe	3220	UDP	DESKTOP-N3UN5D7	ws-discovery	*	*											
+dasHost.exe	3220	UDP	DESKTOP-N3UN5D7	ws-discovery	*	*											
+dasHost.exe	3220	UDP	DESKTOP-N3UN5D7	51248	*	*											
+dasHost.exe	3220	UDPV6	desktop-n3un5d7	3702	*	*											
+dasHost.exe	3220	UDPV6	desktop-n3un5d7	3702	*	*											
+dasHost.exe	3220	UDPV6	desktop-n3un5d7	51249	*	*											
+lsass.exe	688	TCP	DESKTOP-N3UN5D7	49698	DESKTOP-N3UN5D7	0	LISTENING										
+lsass.exe	688	TCPV6	desktop-n3un5d7	49698	desktop-n3un5d7	0	LISTENING										
+SearchUI.exe	4204	TCP	desktop-n3un5d7.localdomain	50176	204.79.197.220	https	ESTABLISHED										
+SearchUI.exe	4204	TCP	desktop-n3un5d7.localdomain	50177	a23-49-14-44.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+SearchUI.exe	4204	TCP	desktop-n3un5d7.localdomain	50178	a23-49-14-44.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+SearchUI.exe	4204	TCP	desktop-n3un5d7.localdomain	50180	72.21.81.200	https	ESTABLISHED										
+SearchUI.exe	4204	TCP	desktop-n3un5d7.localdomain	50181	13.107.42.254	https	ESTABLISHED										
+SearchUI.exe	4204	TCP	desktop-n3un5d7.localdomain	50182	13.107.246.10	https	ESTABLISHED										
+SearchUI.exe	4204	TCP	desktop-n3un5d7.localdomain	50183	204.79.197.222	https	ESTABLISHED	1	586	1	223						
+SearchUI.exe	4204	TCP	desktop-n3un5d7.localdomain	50184	bingforbusiness.com	https	ESTABLISHED										
+SearchUI.exe	4204	TCP	desktop-n3un5d7.localdomain	50185	204.79.197.220	https	ESTABLISHED	2	4,108	1	259						
+SearchUI.exe	4204	TCP	desktop-n3un5d7.localdomain	50186	13.107.136.254	https	ESTABLISHED	6	2,353	7	6,631						
+SearchUI.exe	4204	TCP	desktop-n3un5d7.localdomain	50187	a23-49-13-136.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+SearchUI.exe	4204	TCP	desktop-n3un5d7.localdomain	50188	13.107.56.254	https	ESTABLISHED										
+services.exe	664	TCP	DESKTOP-N3UN5D7	49668	DESKTOP-N3UN5D7	0	LISTENING										
+services.exe	664	TCPV6	desktop-n3un5d7	49668	desktop-n3un5d7	0	LISTENING										
+spoolsv.exe	2408	TCP	DESKTOP-N3UN5D7	49667	DESKTOP-N3UN5D7	0	LISTENING										
+spoolsv.exe	2408	TCPV6	desktop-n3un5d7	49667	desktop-n3un5d7	0	LISTENING										
+svchost.exe	960	TCP	DESKTOP-N3UN5D7	epmap	DESKTOP-N3UN5D7	0	LISTENING										
+svchost.exe	3896	TCP	desktop-n3un5d7.localdomain	5040	DESKTOP-N3UN5D7	0	LISTENING										
+svchost.exe	1048	TCP	DESKTOP-N3UN5D7	49665	DESKTOP-N3UN5D7	0	LISTENING										
+svchost.exe	1760	TCP	DESKTOP-N3UN5D7	49666	DESKTOP-N3UN5D7	0	LISTENING										
+svchost.exe	2796	TCP	desktop-n3un5d7.localdomain	50165	52.165.170.112	https	ESTABLISHED										
+svchost.exe	4596	TCP	DESKTOP-N3UN5D7	ms-do	DESKTOP-N3UN5D7	0	LISTENING										
+svchost.exe	3612	UDP	DESKTOP-N3UN5D7	ssdp	*	*				4	684						
+svchost.exe	3612	UDP	desktop-n3un5d7.localdomain	ssdp	*	*											
+svchost.exe	1268	UDP	DESKTOP-N3UN5D7	ws-discovery	*	*											
+svchost.exe	1912	UDP	DESKTOP-N3UN5D7	ws-discovery	*	*											
+svchost.exe	1912	UDP	DESKTOP-N3UN5D7	ws-discovery	*	*											
+svchost.exe	1268	UDP	DESKTOP-N3UN5D7	ws-discovery	*	*											
+svchost.exe	3896	UDP	DESKTOP-N3UN5D7	5050	*	*											
+svchost.exe	1416	UDP	DESKTOP-N3UN5D7	5353	*	*											
+svchost.exe	1416	UDP	DESKTOP-N3UN5D7	llmnr	*	*											
+svchost.exe	3612	UDP	desktop-n3un5d7.localdomain	51244	*	*											
+svchost.exe	3612	UDP	DESKTOP-N3UN5D7	51245	*	*											
+svchost.exe	1268	UDP	DESKTOP-N3UN5D7	51246	*	*											
+svchost.exe	1912	UDP	DESKTOP-N3UN5D7	55284	*	*											
+svchost.exe	2696	UDP	DESKTOP-N3UN5D7	62634	*	*											
+svchost.exe	960	TCPV6	desktop-n3un5d7	epmap	desktop-n3un5d7	0	LISTENING										
+svchost.exe	4596	TCPV6	desktop-n3un5d7	ms-do	desktop-n3un5d7	0	LISTENING										
+svchost.exe	1048	TCPV6	desktop-n3un5d7	49665	desktop-n3un5d7	0	LISTENING										
+svchost.exe	1760	TCPV6	desktop-n3un5d7	49666	desktop-n3un5d7	0	LISTENING										
+svchost.exe	1184	UDPV6	[fe80:0:0:0:241c:b22:53ef:907f]	546	*	*											
+svchost.exe	1184	UDPV6	[fe80:0:0:0:5070:1e40:e0cc:735]	546	*	*											
+svchost.exe	3612	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
+svchost.exe	3612	UDPV6	[fe80:0:0:0:5070:1e40:e0cc:735]	1900	*	*											
+svchost.exe	1268	UDPV6	desktop-n3un5d7	3702	*	*											
+svchost.exe	1268	UDPV6	desktop-n3un5d7	3702	*	*											
+svchost.exe	1912	UDPV6	desktop-n3un5d7	3702	*	*											
+svchost.exe	1912	UDPV6	desktop-n3un5d7	3702	*	*											
+svchost.exe	1416	UDPV6	desktop-n3un5d7	5353	*	*											
+svchost.exe	1416	UDPV6	desktop-n3un5d7	5355	*	*											
+svchost.exe	3612	UDPV6	[fe80:0:0:0:5070:1e40:e0cc:735]	51242	*	*											
+svchost.exe	3612	UDPV6	[0:0:0:0:0:0:0:1]	51243	*	*											
+svchost.exe	1268	UDPV6	desktop-n3un5d7	51247	*	*											
+svchost.exe	1912	UDPV6	desktop-n3un5d7	55285	*	*											
+svchost.exe	1584	TCP	desktop-n3un5d7.localdomain	50190	a96-16-182-239.deploy.static.akamaitechnologies.com	https	ESTABLISHED	3	456	5	8,410						
+System	4	TCP	desktop-n3un5d7.localdomain	netbios-ssn	DESKTOP-N3UN5D7	0	LISTENING										
+System	4	TCP	DESKTOP-N3UN5D7	microsoft-ds	DESKTOP-N3UN5D7	0	LISTENING										
+System	4	TCP	DESKTOP-N3UN5D7	wsd	DESKTOP-N3UN5D7	0	LISTENING										
+System	4	UDP	desktop-n3un5d7.localdomain	netbios-ns	*	*											
+System	4	UDP	desktop-n3un5d7.localdomain	netbios-dgm	*	*											
+System	4	TCPV6	desktop-n3un5d7	microsoft-ds	desktop-n3un5d7	0	LISTENING										
+System	4	TCPV6	desktop-n3un5d7	wsd	desktop-n3un5d7	0	LISTENING										
+wininit.exe	532	TCP	DESKTOP-N3UN5D7	49664	DESKTOP-N3UN5D7	0	LISTENING										
+wininit.exe	532	TCPV6	desktop-n3un5d7	49664	desktop-n3un5d7	0	LISTENING										
